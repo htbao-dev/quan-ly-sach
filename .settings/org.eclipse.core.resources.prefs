@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//Model/bo/GioHangBo.java=UTF-8
+encoding//Model/bo/SachBo.java=UTF-8
+encoding//Model/dao/Fake/FakeLoaiDao.java=UTF-8
+encoding//Model/dao/Fake/FakeSachDao.java=UTF-8
